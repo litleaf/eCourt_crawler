@@ -29,13 +29,14 @@ def get_args():
     args = parser.parse_args()
     return vars(args)
 
-def query(args):
+def search_adv(args):
     url = u'http://www.lawplus.com.tw/rest/search/adv'
     content = requests.get(url, params=args).content
     json_dict = json.loads(content)
     return json_dict
 
 if __name__ == '__main__':
-    result = query(get_args())
+    # ./lp-search-adv.py --querySentence 食品安全
+    result = search_adv(get_args())
     for row in result['rows']:
         print row['identifier']
