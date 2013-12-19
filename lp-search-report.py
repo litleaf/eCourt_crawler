@@ -4,6 +4,7 @@
 import sys
 import requests
 import json
+import yaml
 
 if sys.getdefaultencoding() != 'utf-8':
     reload(sys)
@@ -17,7 +18,7 @@ def search_report(identifier):
 
 if __name__ == '__main__':
     # ./lp-search-report.py TPS,99,台上,8096-af2372e4-b2f2-4c67-b1ab-9865f94afa4d
-    result = search_report(sys.argv[1])
-    for k, v in result['response'].items():
-        print k, v
-    print result['response']['reportBase']['content']
+    identifier = sys.argv[1]
+    result = search_report(identifier)
+    with open(u'%s.search_report.yaml' % identifier, 'w') as f:
+        f.write(yaml.safe_dump(result, allow_unicode=True))

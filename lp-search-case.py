@@ -5,6 +5,7 @@ import sys
 import requests
 import json
 import argparse
+import yaml
 
 def get_args():
     description = 'Crawler for lawplus'
@@ -36,6 +37,7 @@ def search_case(args):
 
 if __name__ == '__main__':
     # ./lp-search-case.py --querySentence 食品安全
-    result = search_case(get_args())
-    for k, v in result['response'][0].items():
-        print k, v
+    args = get_args()
+    result = search_case(args)
+    with open('%s.search_case.yaml' % args['querySentence'], 'w') as f:
+        f.write(yaml.safe_dump(result, allow_unicode=True))

@@ -5,6 +5,7 @@ import sys
 import requests
 import json
 import argparse
+import yaml
 
 def get_args():
     description = 'Crawler for lawplus'
@@ -36,6 +37,7 @@ def search_level(args):
 
 if __name__ == '__main__':
     # ./lp-search-level.py --querySentence 食品安全
-    result = search_level(get_args())
-    for r in result['response']:
-        print r['name'], r['count']
+    args = get_args()
+    result = search_level(args)
+    with open(u'%s.search_level.yaml' % args['querySentence'], 'w') as f:
+        f.write(yaml.safe_dump(result, allow_unicode=True))

@@ -4,6 +4,7 @@
 import sys
 import requests
 import json
+import yaml
 
 if sys.getdefaultencoding() != 'utf-8':
     reload(sys)
@@ -18,6 +19,7 @@ def search_report_relatedMap(identifier):
 if __name__ == '__main__':
     # ./lp-search-report-relatedMap.py TPS,99,台上,8096-af2372e4-b2f2-4c67-b1ab-9865f94afa4d
     # ./lp-search-report-relatedMap.py TPH,100,重上,369-5f1a7a91-b5b4-4926-95b3-1c090775fcb5
-    result = search_report_relatedMap(sys.argv[1])
-    for lawsuit in result['response']:
-        print lawsuit['identifier']
+    identifier = sys.argv[1]
+    result = search_report_relatedMap(identifier)
+    with open(u'%s.search_report_relatedMap.yaml' % identifier, 'w') as f:
+        f.write(yaml.safe_dump(result, allow_unicode=True))
