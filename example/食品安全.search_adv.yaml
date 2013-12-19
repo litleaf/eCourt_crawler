@@ -1,0 +1,80 @@
+page: 1
+records: 146
+rows:
+- {caseType: M, content: 八月二日始以衛署食字第八八０三七八０三號公告「健康<span class='highlight'>食品安全</span>及功效評估方法」等各項評估方法，被告等隨即於同年八月十六日發函通知各業...,
+  court: 臺灣高等法院, identifier: 'TPH,89,上易,3126-d6803d8c-c525-46a8-8de2-13c404cdcae5',
+  issue: 違反健康食品管理法, judgeDate: 2000/07/12, litigant: null, 'no': '89,上易,3126', tags: null,
+  type: 判決}
+- caseType: V
+  content: 「危險可能之告知義務」，而依行政院衛生署頒佈之健康<span class='highlight'>食品安全</span>性評估方法，產品之原料非屬傳統食用者，應檢具(1)基因毒性試驗(2)九...
+  court: 臺灣高雄地方法院
+  identifier: KSD,89,重訴,62-8f05b93c-df4f-47d3-9f95-5345a3c3b562
+  issue: 侵權行為損害賠償
+  judgeDate: 2000/07/24
+  litigant: null
+  'no': 89,重訴,62
+  tags: ['TP:消費爭議']
+  type: 判決
+- {caseType: V, content: 而發臭，有嚴重異味，會發生交叉污染，衍生<span class='highlight'>食品安全</span>衛生問題。（五）碗盤表面有刮痕，操作時，刀具會接碗盤表面，衍...飛出，導致人員有嚴重傷亡的疑慮，既不符合<span
+    class='highlight'>食品安全</span>衛生，更不符人員操作安全之規定。（六）碗盤機體間縫隙過多，肉..., court: 臺灣台北地方法院,
+  identifier: 'TPD,88,訴,4190-35fc918a-f02e-42d2-bdd6-d96d5923cee5', issue: 返還價金, judgeDate: 2001/12/28,
+  litigant: null, 'no': '88,訴,4190', tags: null, type: 判決}
+- {caseType: M, content: 九十六小時，平均約為十五小時，而行政院衛生署印製之<span class='highlight'>食品安全</span>衛生手冊及細菌性食品中毒確症指示，所列腸炎弧菌潛伏期均為二至四十八小時...,
+  court: 臺灣高雄地方法院, identifier: 'KSD,90,易,1057-ecd8767a-015e-456c-8377-6968ae446fdc',
+  issue: 違反食品衛生管理法, judgeDate: 2002/05/31, litigant: null, 'no': '90,易,1057', tags: null,
+  type: 判決}
+- {caseType: M, content: 九十六小時，平均約為十五小時，而行政院衛生署印製之<span class='highlight'>食品安全</span>衛生手冊及細菌性食品中毒確症指示，所列腸炎弧菌潛伏期均為二至四十八小時...,
+  court: 臺灣高雄地方法院, identifier: 'KSD,91,易,214-e8b716fd-ac99-4cf3-8266-c5e13ca02fc0',
+  issue: 違反食品衛生管理法, judgeDate: 2002/07/30, litigant: null, 'no': '91,易,214', tags: null,
+  type: 判決}
+- caseType: V
+  content: 保持該出租予原告存放食品之冷凍庫維持在零下１８℃之<span class='highlight'>食品安全</span>標準溫度，且復遭受氨氣污染，則其給付自係不符債務本旨，而屬不完全給付。...
+  court: 臺灣新北地方法院
+  identifier: PCD,88,重訴,619-e37971fa-0080-4c36-b2d0-8bbe2d0ca827
+  issue: 損害賠償
+  judgeDate: 2002/10/07
+  litigant: null
+  'no': 88,重訴,619
+  tags: ['PE:環境保護']
+  type: 判決
+- caseType: V
+  content: 、禽、蛋類產品、乳製品及牲口飼料等輸銷加國，並發布<span class='highlight'>食品安全</span>警示，建議零售商停止販售及要求消費者暫勿食用含有上開物質之比食品，如乳...
+  court: 臺灣高等法院
+  identifier: TPH,91,重上國,4-75b383c2-b91a-4a25-9d16-8dd3081d9d30
+  issue: 國家賠償
+  judgeDate: 2002/10/09
+  litigant: null
+  'no': 91,重上國,4
+  tags: ['NC:國家賠償', 'TP:消費爭議']
+  type: 判決
+- {caseType: M, content: 管機關公告指定之食品業別，並應符合中央主管機關所定<span class='highlight'>食品安全</span>管制系統之規定」，而中央主管機關所公告之食品衛生規範中對於餐飲業者之衛...,
+  court: 臺灣高等法院, identifier: 'TPH,92,上訴,869-f83cf80c-e0c1-4bc7-aa71-575e3aaa8155',
+  issue: 過失致死等, judgeDate: 2003/04/23, litigant: null, 'no': '92,上訴,869', tags: null,
+  type: 判決}
+- {caseType: M, content: 管機關公告指定之食品業別，並應符合中央主管機關所定<span class='highlight'>食品安全</span>管制系統之規定。」；「有下列行為之一者，處新臺幣三萬元以上十五萬元以下...,
+  court: 臺灣台北地方法院, identifier: 'TPD,91,易,1573-0a6c8c30-c8c2-4640-8089-3fee4fc84ce0',
+  issue: 違反食品衛生管理法, judgeDate: 2003/05/28, litigant: null, 'no': '91,易,1573', tags: null,
+  type: 判決}
+- {caseType: M, content: 九十六小時，平均約為十五小時，而行政院衛生署印製之<span class='highlight'>食品安全</span>衛生手冊及細菌性食品中毒確症指示，所列腸炎弧菌潛伏期均為二至四十八小時...,
+  court: 臺灣高雄地方法院, identifier: 'KSD,92,易,572-a19edc75-6ddb-4c74-ae49-a4024661851c',
+  issue: 違反食品衛生管理法, judgeDate: 2003/08/27, litigant: null, 'no': '92,易,572', tags: null,
+  type: 判決}
+total: 15
+userdata:
+  categories: ['2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005',
+    '2004', '2003', '2002', '2001', '2000']
+  series:
+  - {name: '2013', y: 44}
+  - {name: '2012', y: 20}
+  - {name: '2011', y: 15}
+  - {name: '2010', y: 16}
+  - {name: '2009', y: 7}
+  - {name: '2008', y: 17}
+  - {name: '2007', y: 5}
+  - {name: '2006', y: 6}
+  - {name: '2005', y: 2}
+  - {name: '2004', y: 2}
+  - {name: '2003', y: 5}
+  - {name: '2002', y: 4}
+  - {name: '2001', y: 1}
+  - {name: '2000', y: 2}

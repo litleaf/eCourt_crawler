@@ -1,0 +1,7 @@
+lastError: null
+response:
+- {count: 54, name: 民事}
+- {count: 73, name: 刑事}
+- {count: 19, name: 行政}
+- {count: 1, name: 智財}
+success: true

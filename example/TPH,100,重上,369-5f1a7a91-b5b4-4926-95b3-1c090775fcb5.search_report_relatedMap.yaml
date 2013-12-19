@@ -1,0 +1,364 @@
+lastError: ''
+response:
+- appellant: null
+  appellantAgent: null
+  appellantLawyer: null
+  appellee: null
+  appelleeAgent: null
+  appelleeLawyer: null
+  assignCounsel: null
+  beJudgedPerson: null
+  caseNum: ['99,重訴,128']
+  caseType: V
+  chosenCounsel: null
+  clerk: null
+  codeNum: 重訴
+  courtCode: 臺灣台北地方法院
+  defendant: [辛耘企業股份有限公司]
+  defendantAgent: null
+  defendantLawyer: [邱碩松, 路春鴻, 黃淑芬]
+  flag: false
+  identifier: TPD,99,重訴,128-3fdda0a4-7c81-4cac-8193-2ba0140d16f2
+  inmate: null
+  judge: null
+  judgeDate: 1295971200000
+  lawyerCustomers:
+  - customers: [辛耘企業股份有限公司]
+    lawyers: [路春鴻, 黃淑芬]
+  - customers: [暐凱國際檢驗科技股份有限公司]
+    lawyers: [邱碩松]
+  lose: null
+  main: "本件應再開言詞辯論，並指定民國一百年三月十六日上午十時三\r\n十分，在本院第第二十一法庭庭行言詞辯論。"
+  money: 0
+  petitioner: null
+  plaintiff: [暐凱國際檢驗科技股份有限公司]
+  plaintiffAgent: null
+  plaintiffLawyer: null
+  presideJudge: 曾益盛
+  previousCaseNum: null
+  previousCourtCode: null
+  previousJudgeDate: null
+  proportion: 0.0
+  prosecutor: null
+  publicDefender: null
+  publicJudge: null
+  puisne: null
+  result: 0
+  sentence: null
+  statute: [民事訴訟法第二百十條]
+  tags: [LA]
+  type: 民事裁定
+  win: null
+- appellant: null
+  appellantAgent: null
+  appellantLawyer: null
+  appellee: null
+  appelleeAgent: null
+  appelleeLawyer: null
+  assignCounsel: null
+  beJudgedPerson: null
+  caseNum: ['99,重訴,128']
+  caseType: V
+  chosenCounsel: null
+  clerk: null
+  codeNum: 重訴
+  courtCode: 臺灣台北地方法院
+  defendant: [辛耘企業股份有限公司]
+  defendantAgent: null
+  defendantLawyer: [邱碩松, 路春鴻, 黃淑芬]
+  flag: false
+  identifier: TPD,99,重訴,128-283a725e-70d5-4a40-9291-df3652714fb1
+  inmate: null
+  judge: null
+  judgeDate: 1295971200000
+  lawyerCustomers:
+  - customers: [辛耘企業股份有限公司]
+    lawyers: [路春鴻, 黃淑芬]
+  - customers: [暐凱國際檢驗科技股份有限公司]
+    lawyers: [邱碩松]
+  lose: null
+  main: "本件應再開言詞辯論，並指定民國一百年三月十六日上午十時三\r\n十分，在本院第第二十一法庭庭行言詞辯論。"
+  money: 0
+  petitioner: null
+  plaintiff: [暐凱國際檢驗科技股份有限公司]
+  plaintiffAgent: null
+  plaintiffLawyer: null
+  presideJudge: 曾益盛
+  previousCaseNum: null
+  previousCourtCode: null
+  previousJudgeDate: null
+  proportion: 0.0
+  prosecutor: null
+  publicDefender: null
+  publicJudge: null
+  puisne: null
+  result: 0
+  sentence: null
+  statute: [民事訴訟法第二百十條]
+  tags: [LA]
+  type: 民事裁定
+  win: null
+- appellant: null
+  appellantAgent: null
+  appellantLawyer: null
+  appellee: null
+  appelleeAgent: null
+  appelleeLawyer: null
+  assignCounsel: null
+  beJudgedPerson: null
+  caseNum: ['99,重訴,128']
+  caseType: V
+  chosenCounsel: null
+  clerk: null
+  codeNum: 重訴
+  courtCode: 臺灣台北地方法院
+  defendant: [辛耘企業股份有限公司]
+  defendantAgent: null
+  defendantLawyer: [邱碩松, 路春鴻, 黃淑芬]
+  flag: false
+  identifier: TPD,99,重訴,128-2b0c3453-785b-46e9-ba8e-5ab6938d594a
+  inmate: null
+  judge: null
+  judgeDate: 1301500800000
+  lawyerCustomers:
+  - customers: [辛耘企業股份有限公司]
+    lawyers: [路春鴻, 黃淑芬]
+  - customers: [暐凱國際檢驗科技股份有限公司]
+    lawyers: [邱碩松]
+  lose: null
+  main: "被告應給付原告新臺幣柒佰壹拾捌萬捌仟元及自民國九十八年十\r\n二月二十九日起至清償日止，按年息百分之五計算之利息。\r\n原告其餘之訴駁回。\r\
+    \n訴訟費用由被告負擔百分之八十三，餘由原告負擔。\r\n本判決第一項於原告以新臺幣貳佰肆拾萬元為被告供擔保後，得\r\n假執行，但被告於假執行實施前以新臺幣柒佰壹拾別萬捌仟元為\r\
+    \n被告預供擔保，得免為假執行。\r\n原告其餘假執行之聲請駁回。\r\n反訴原告之訴及假執行之聲請均駁回。\r\n反訴訴訟費用由反訴原告負擔。"
+  money: 7188000
+  petitioner: null
+  plaintiff: [暐凱國際檢驗科技股份有限公司]
+  plaintiffAgent: null
+  plaintiffLawyer: null
+  presideJudge: 曾益盛
+  previousCaseNum: null
+  previousCourtCode: null
+  previousJudgeDate: null
+  proportion: 0.17000002
+  prosecutor: null
+  publicDefender: null
+  publicJudge: null
+  puisne: null
+  result: 2
+  sentence: null
+  statute: [民法第二百三十一條, 民法第二百六十條, 民法第二百三十五條, 民事訴訟法第三百九十條, 民事訴訟法第七十八條, 民事訴訟法第七十九條, 民法第二百二十六條,
+    民事訴訟法第二百五十五條, 民法第二百六十四條, 民法第二百三條, 民法第二百三十條, 民事訴訟法第三百九十二條, 民事訴訟法第三百五十八條, 民事訴訟法第二百五十九條,
+    民事訴訟法第二百六十條, 民事訴訟法第二百七十七條, 民法第二百二十九條, 民法第三百六十七條, 民事訴訟法第五條, 民法第二百三十三條]
+  tags: null
+  type: 民事判決
+  win: null
+- appellant: [暐凱國際檢驗科技股份有限公司]
+  appellantAgent: null
+  appellantLawyer: null
+  appellee: null
+  appelleeAgent: null
+  appelleeLawyer: null
+  assignCounsel: null
+  beJudgedPerson: null
+  caseNum: ['99,重訴,128']
+  caseType: V
+  chosenCounsel: null
+  clerk: null
+  codeNum: 重訴
+  courtCode: 臺灣台北地方法院
+  defendant: null
+  defendantAgent: null
+  defendantLawyer: null
+  flag: false
+  identifier: TPD,99,重訴,128-a874b15c-a6ca-4712-89a1-cac9964b973a
+  inmate: null
+  judge: null
+  judgeDate: 1304611200000
+  lawyerCustomers:
+  - customers: [暐凱國際檢驗科技股份有限公司]
+    lawyers: null
+  lose: null
+  main: No Main
+  money: 0
+  petitioner: null
+  plaintiff: null
+  plaintiffAgent: null
+  plaintiffLawyer: null
+  presideJudge: 曾益盛
+  previousCaseNum: null
+  previousCourtCode: null
+  previousJudgeDate: null
+  proportion: 0.0
+  prosecutor: null
+  publicDefender: null
+  publicJudge: null
+  puisne: null
+  result: 0
+  sentence: null
+  statute: [民事訴訟法第四百四十二條]
+  tags: [LA]
+  type: 民事裁定
+  win: null
+- appellant: [辛耘企業股份有限公司, 暐凱國際檢驗科技股份有限公司]
+  appellantAgent: null
+  appellantLawyer: [邱碩松, 路春鴻, 劉雅雲, 許佩霖, 林鳳秋, 黃雅鈴]
+  appellee: null
+  appelleeAgent: null
+  appelleeLawyer: null
+  assignCounsel: null
+  beJudgedPerson: null
+  caseNum: ['100,重上,369']
+  caseType: V
+  chosenCounsel: null
+  clerk: null
+  codeNum: 重上
+  courtCode: 臺灣高等法院
+  defendant: null
+  defendantAgent: null
+  defendantLawyer: null
+  flag: false
+  identifier: TPH,100,重上,369-453a73d4-7e20-4906-b8df-35569687d548
+  inmate: null
+  judge: 曾部倫
+  judgeDate: 1371139200000
+  lawyerCustomers:
+  - customers: [辛耘企業股份有限公司]
+    lawyers: [路春鴻]
+  - customers: [暐凱國際檢驗科技股份有限公司]
+    lawyers: [林鳳秋, 黃雅鈴, 許佩霖, 劉雅雲, 邱碩松]
+  lose: null
+  main: No Main
+  money: 0
+  petitioner: null
+  plaintiff: null
+  plaintiffAgent: null
+  plaintiffLawyer: null
+  presideJudge: 黃熙嫣
+  previousCaseNum: null
+  previousCourtCode: null
+  previousJudgeDate: null
+  proportion: 0.0
+  prosecutor: null
+  publicDefender: null
+  publicJudge: null
+  puisne: [朱耀平]
+  result: 0
+  sentence: null
+  statute: []
+  tags: [LA]
+  type: 民事裁定
+  win: null
+- appellant: [辛耘企業股份有限公司, 暐凱國際檢驗科技股份有限公司]
+  appellantAgent: null
+  appellantLawyer: [邱碩松, 路春鴻, 劉雅雲, 許佩霖, 林鳳秋, 黃雅鈴]
+  appellee: null
+  appelleeAgent: null
+  appelleeLawyer: null
+  assignCounsel: null
+  beJudgedPerson: null
+  caseNum: ['100,重上,369']
+  caseType: V
+  chosenCounsel: null
+  clerk: 黃麗玲
+  codeNum: 重上
+  courtCode: 臺灣高等法院
+  defendant: null
+  defendantAgent: null
+  defendantLawyer: null
+  flag: false
+  identifier: TPH,100,重上,369-5f1a7a91-b5b4-4926-95b3-1c090775fcb5
+  inmate: null
+  judge: 曾部倫
+  judgeDate: 1378137600000
+  lawyerCustomers:
+  - customers: [辛耘企業股份有限公司]
+    lawyers: [路春鴻]
+  - customers: [暐凱國際檢驗科技股份有限公司]
+    lawyers: [林鳳秋, 黃雅鈴, 許佩霖, 劉雅雲, 邱碩松]
+  lose: null
+  main: "原判決關於（一）命暐凱國際檢驗科技股份有限公司給付新臺幣\r\n柒佰壹拾捌萬捌仟元本息部分，及該部分假執行之宣告，暨本訴\r\n訴訟費用；（二）駁回暐凱國際檢驗科技股份有限公司後開第三\r\
+    \n項之反訴部分，及該部分假執行之聲請，暨反訴訴訟費用之裁判\r\n（減縮部分除外）均廢棄。\r\n上開廢棄（一）部分，辛耘企業股份有限公司在第一審之訴及假\r\
+    \n執行之聲請均駁回。\r\n辛耘企業股份有限公司應給付暐凱國際檢驗科技股份有限公司新\r\n臺幣捌佰伍拾參萬貳仟元及自民國九十九年四月二十二日起，至\r\n\
+    清償日止，按年息百分之五計算之利息。\r\n辛耘企業股份有限公司之上訴駁回。\r\n暐凱國際檢驗科技股份有限公司其餘上訴及追加之訴均駁回。\r\n關於本訴部分第一、二審訴訟費用，由辛耘企業股份有限公司負\r\
+    \n擔；關於反訴部分第一、二審及追加之訴訴訟費用（減縮部分除\r\n外），由辛耘企業股份有限公司負擔十分之六，餘由暐凱國際檢\r\n驗科技股份有限公司負擔。\r\
+    \n本判決第三項所命給付，於暐凱國際檢驗科技股份有限公司以新\r\n臺幣貳佰捌拾肆萬元供擔保後，得假執行；但辛耘企業股份有限\r\n公司如以新臺幣捌佰伍拾肆萬元預供擔保，得免為假執行。\r\
+    \n暐凱國際檢驗科技股份有限公司追加之訴假執行之聲請駁回。"
+  money: 0
+  petitioner: null
+  plaintiff: null
+  plaintiffAgent: null
+  plaintiffLawyer: null
+  presideJudge: 黃熙嫣
+  previousCaseNum: 99,重訴,128
+  previousCourtCode: TPD
+  previousJudgeDate: 1301500800000
+  proportion: 0.0
+  prosecutor: null
+  publicDefender: null
+  publicJudge: null
+  puisne: [朱耀平]
+  result: 1
+  sentence: null
+  statute: [民事訴訟法第四百四十六條, 民法第三百五十九條, 民法第二百六十條, 民事訴訟法第三百九十條, 民法第二百五十九條, 民事訴訟法第七十八條,
+    民法第二百二十七條, 民事訴訟法第七十九條, 民事訴訟法第四百五十條, 民法第二百六十四條, 民事訴訟法第二百五十五條, 民事訴訟法第四百六十六條, 民事訴訟法第三百九十二條,
+    民事訴訟法第四百六十三條, 民事訴訟法第四百四十九條, 民法第二百五十四條, 民法第二百五十六條]
+  tags: null
+  type: 民事判決
+  win: null
+- appellant: [辛耘企業股份有限公司, 暐凱國際檢驗科技股份有限公司]
+  appellantAgent: null
+  appellantLawyer: [邱碩松, 路春鴻, 劉雅雲, 許佩霖, 林鳳秋, 黃雅鈴]
+  appellee: null
+  appelleeAgent: null
+  appelleeLawyer: null
+  assignCounsel: null
+  beJudgedPerson: null
+  caseNum: ['100,重上,369']
+  caseType: V
+  chosenCounsel: null
+  clerk: 黃麗玲
+  codeNum: 重上
+  courtCode: 臺灣高等法院
+  defendant: null
+  defendantAgent: null
+  defendantLawyer: null
+  flag: false
+  identifier: TPH,100,重上,369-e65bebcd-049e-462d-801f-77a6670a4bfa
+  inmate: null
+  judge: 曾部倫
+  judgeDate: 1378137600000
+  lawyerCustomers:
+  - customers: [辛耘企業股份有限公司]
+    lawyers: [路春鴻]
+  - customers: [暐凱國際檢驗科技股份有限公司]
+    lawyers: [林鳳秋, 黃雅鈴, 許佩霖, 劉雅雲, 邱碩松]
+  lose: null
+  main: "原判決關於（一）命暐凱國際檢驗科技股份有限公司給付新臺幣\r\n柒佰壹拾捌萬捌仟元本息部分，及該部分假執行之宣告，暨本訴\r\n訴訟費用；（二）駁回暐凱國際檢驗科技股份有限公司後開第三\r\
+    \n項之反訴部分，及該部分假執行之聲請，暨反訴訴訟費用之裁判\r\n（減縮部分除外）均廢棄。\r\n上開廢棄（一）部分，辛耘企業股份有限公司在第一審之訴及假\r\
+    \n執行之聲請均駁回。\r\n辛耘企業股份有限公司應給付暐凱國際檢驗科技股份有限公司新\r\n臺幣捌佰伍拾參萬貳仟元及自民國九十九年四月二十二日起，至\r\n\
+    清償日止，按年息百分之五計算之利息。\r\n辛耘企業股份有限公司之上訴駁回。\r\n暐凱國際檢驗科技股份有限公司其餘上訴及追加之訴均駁回。\r\n關於本訴部分第一、二審訴訟費用，由辛耘企業股份有限公司負\r\
+    \n擔；關於反訴部分第一、二審及追加之訴訴訟費用（減縮部分除\r\n外），由辛耘企業股份有限公司負擔十分之六，餘由暐凱國際檢\r\n驗科技股份有限公司負擔。\r\
+    \n本判決第三項所命給付，於暐凱國際檢驗科技股份有限公司以新\r\n臺幣貳佰捌拾肆萬元供擔保後，得假執行；但辛耘企業股份有限\r\n公司如以新臺幣捌佰伍拾肆萬元預供擔保，得免為假執行。\r\
+    \n暐凱國際檢驗科技股份有限公司追加之訴假執行之聲請駁回。"
+  money: 0
+  petitioner: null
+  plaintiff: null
+  plaintiffAgent: null
+  plaintiffLawyer: null
+  presideJudge: 黃熙嫣
+  previousCaseNum: 99,重訴,128
+  previousCourtCode: TPD
+  previousJudgeDate: 1301500800000
+  proportion: 0.0
+  prosecutor: null
+  publicDefender: null
+  publicJudge: null
+  puisne: [朱耀平]
+  result: 1
+  sentence: null
+  statute: [民事訴訟法第四百四十六條, 民法第三百五十九條, 民法第二百六十條, 民事訴訟法第三百九十條, 民法第二百五十九條, 民事訴訟法第七十八條,
+    民法第二百二十七條, 民事訴訟法第七十九條, 民事訴訟法第四百五十條, 民法第二百六十四條, 民事訴訟法第二百五十五條, 民事訴訟法第四百六十六條, 民事訴訟法第三百九十二條,
+    民事訴訟法第四百六十三條, 民事訴訟法第四百四十九條, 民法第二百五十四條, 民法第二百五十六條]
+  tags: null
+  type: 民事判決
+  win: null
+success: true
