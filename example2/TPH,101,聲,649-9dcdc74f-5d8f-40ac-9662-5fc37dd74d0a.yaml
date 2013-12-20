@@ -1,0 +1,86 @@
+lastError: ''
+response:
+  issue: 聲請具保停止羈押
+  judgeDate: 2012/03/15
+  report:
+    appellant: null
+    appellantAgent: null
+    appellantLawyer: null
+    appellee: null
+    appelleeAgent: null
+    appelleeLawyer: null
+    assignCounsel: null
+    beJudgedPerson: null
+    caseNum: ['101,聲,649']
+    caseType: M
+    chosenCounsel: [張世和, 孫治平]
+    clerk: 劉貞達
+    codeNum: 聲
+    courtCode: TPH
+    defendant: [王粉]
+    defendantAgent: null
+    defendantLawyer: null
+    identifier: TPH,101,聲,649-9dcdc74f-5d8f-40ac-9662-5fc37dd74d0a
+    inmate: null
+    judge: 邱滋杉
+    judgeDate: 1331740800000
+    lawyerCustomers:
+    - customers: [王粉]
+      lawyers: [張世和, 孫治平]
+    lose: null
+    main: 聲請駁回。
+    money: 0
+    petitioner: null
+    plaintiff: null
+    plaintiffAgent: null
+    plaintiffLawyer: null
+    presideJudge: 陳筱珮
+    previousCaseNum: 100,矚上訴,4
+    previousCourtCode: TPH
+    previousJudgeDate: null
+    proportion: 0.0
+    prosecutor: null
+    publicDefender: null
+    publicJudge: null
+    puisne: [楊貴雄]
+    result: 2
+    sentence: null
+    statute: [刑事訴訟法第一百一條, 刑事訴訟法第二百二十條, 刑法第三百四十條, 刑事訴訟法第一百十四條]
+    tags: null
+    type: 刑事裁定
+    win: null
+  reportBase: {artificiallyBadTags: null, artificiallyTags: null, caseType: M, content: "臺灣高等法院刑事裁定　　　　　　　　　101年度聲字第649號\r\
+      \n聲　請　人\r\n即　被　告　王粉\r\n選任辯護人　<a href=\"http://www.pingluweb.com/#!lawyerDetail?id=5072a624a41c1a3f93cee35f\"\
+      \ target=\"_blank\">張世和</a>律師\r\n　　　　　　<a href=\"http://www.pingluweb.com/#!lawyerDetail?id=5072a63ea41c1a3f93cef1c2\"\
+      \ target=\"_blank\">孫治平</a>律師\r\n上列被告因本院100 年度矚上訴字第4 號詐欺等案件，聲請具保\r\n停止羈押，本院裁定如下：\r\
+      \n    主  文\r\n聲請駁回。\r\n    理  由\r\n一、聲請意旨略以：被告王粉全家家人均在臺灣定居，並無綠卡\r\n    ，且有固定之住居所，國外亦無資產且帳戶已遭凍結，平常\r\
+      \n    安分守己，並無不良前科紀錄；被告僅為賓漢香料公司會計\r\n    ，不具化工背景，不懂起雲劑之配方、製造，被告雖在賓漢\r\n    香料公司任職，然所為進貨、銷貨均係延續前股東所為方式\r\
+      \n    ，絕無詐欺、違反食品安全衛生法之意；另被告家中老母已\r\n    80歲，方於5 月底喪子，又操心被告，以致血壓升高而日日\r\n   \
+      \ 無法成眠，健康狀況極差，懇請法院准被告具保停止羈押，\r\n    讓被告照料年邁母親及家人並調養身體，被告願意繳交護照\r\n    ，並配合每日至相關單位報到等語。\r\
+      \n二、按刑事被告經法官訊問後，認為犯罪嫌疑重大，而有逃亡或\r\n    有事實足認為有逃亡之虞者，非予羈押顯難進行追訴、審判\r\n    或執行，得羈押之；又按被告經法官訊問後，認為犯刑法詐\r\
+      \n    欺罪嫌疑重大，有事實足認為有反覆實施同一犯罪之虞，而\r\n    有羈押之必要者，得羈押之，刑事訴訟法第101 條第1 項第\r\n  \
+      \  1 款、第101 條之1 第1 項第7 款分別定有明文。又羈押被\r\n    告之目的，在於確保訴訟程序之進行、確保證據之存在、真\r\n  \
+      \  實及確保刑罰之執行，而被告有無羈押之必要，及羈押後其\r\n    原因是否仍然存在，有無繼續羈押之必要，應否延長羈押，\r\n    均屬事實認定之問題，法院有依法認定裁量之職權，自得就\r\
+      \n    具體個案情節予以斟酌決定，如就客觀情事觀察，法院許可\r\n    羈押之裁定在目的與手段間之衡量，並無明顯違反比例原則\r\n    之情形，即無違法或不當可言，且關於羈押原因之判斷，不\r\
+      \n    適用訴訟上之嚴格證明原則，而應適用自由證明程式。又羈\r\n    押之目的除在於確保刑事偵查、審判程序之完成外，另亦有\r\n    刑事執行保全之目的（最高法院98年度台抗字第405\
+      \ 號裁定\r\n    意旨參照）。\r\n三、查被告王粉因犯修正刪除前刑法第340 條之常業詐欺等罪，\r\n    經原審法院判處罪刑，並定應執行有期徒刑10年，顯見其犯\r\
+      \n    罪嫌疑重大，且其犯罪時間長達10餘年，有事實足認為有反\r\n    覆實施同一犯罪之虞。本案上訴後，本院亦認被告涉犯常業\r\n    詐欺等罪嫌疑重大，且經原審判處前述重刑，存有畏懼重罪\r\
+      \n    執行而逃亡之高度誘因，具有刑事訴訟法第101 條第1 項第\r\n    1 款之情形，非予羈押顯難進行審判或執行，又併有同法第\r\n \
+      \   101 條之1 第7 項第7 款之情形，有事實足認為有反覆實施\r\n    同一犯罪之虞，而有羈押必要，而裁定自100 年11月30日起\r\n\
+      \    執行羈押。本院衡量全案情節、被害法益及對被告自由拘束\r\n    之不利益暨防禦權行使限制之程度後，認若以命被告具保、\r\n    責付或限制住居等侵害較小之手段，均不足以確保審判及執\r\
+      \n    行程序之順利進行，且被告符合刑事訴訟法第101 條第1 項\r\n    第1 款、第101 條之1 第1 項第7 款之情形，而有繼續羈押\r\
+      \n    之必要。至被告聲請意旨所稱其餘具保之理由，均非刑事訴\r\n    訟法第114 條各款所定不得駁回具保停止羈押聲請之事由。\r\n   \
+      \ 是被告前開羈押原因尚未消滅，所請具保停止羈押自難准許\r\n    ，應予駁回。\r\n四、據上論結，應依刑事訴訟法第220 條裁定如主文。\r\n\
+      中    華    民    國   101    年    3     月    15    日\r\n                  刑事第四庭\
+      \  審判長法  官  陳筱珮\r\n                                    法  官  楊貴雄\r\n       \
+      \                             法  官  邱滋杉\r\n以上正本證明與原本無異。\r\n如不服本裁定，應於收受送達後五日內向本院提出抗告狀。\r\
+      \n                                    書記官  劉貞達\r\n中    華    民    國   101   \
+      \ 年    3     月    15    日\r\n", courtCode: TPH, identifier: 'TPH,101,聲,649-9dcdc74f-5d8f-40ac-9662-5fc37dd74d0a',
+    issue: 聲請具保停止羈押, judgeDate: 1331740800000, reportStatus: 7, tags: null}
+  statute:
+  - items: [第一百一條, 第一百十四條, 第二百二十條]
+    statute: 刑事訴訟法
+  - items: [第三百四十條]
+    statute: 刑法
+  tags: null
+success: true

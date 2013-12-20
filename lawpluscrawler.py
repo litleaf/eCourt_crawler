@@ -4,6 +4,7 @@ import requests
 import json
 import urllib
 import pprint
+import yaml
 
 #url = "http://httpbin.org/user-agent"
 #url = "http://www.lawplus.com.tw/rest/search/adv?querySentence=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8&keyword=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8&prevKeyword=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8&startDate=&endDate=&sortField=%243%24&startMoney=0&endMoney=0&startSentence=0&endSentence=0&caseNum=&courts=&rows=10000&page=1"
@@ -16,7 +17,7 @@ headers = {
 s = requests.Session()
 inputkeyword = "食品安全"
 encodedkeyword = urllib.quote(inputkeyword)
-print encodedkeyword
+#print encodedkeyword
 
 url = "http://www.lawplus.com.tw/rest/search/adv?querySentence=" + encodedkeyword + "&keyword=" + encodedkeyword + "&prevKeyword=" + encodedkeyword + "&startDate=&endDate=&sortField=%243%24&startMoney=0&endMoney=0&startSentence=0&endSentence=0&caseNum=&courts=&rows=10000&page=1"
 print "url is :", url
@@ -26,4 +27,11 @@ objectjson = json.loads(myjson)
 rowslist = objectjson['rows']
 #pprint.pprint(objectjson)
 for i in range(0,len(rowslist)):
-    print i," ",objectjson['rows'][i]['identifier']
+    uniqueid = objectjson['rows'][i]['identifier']
+    url2 = "http://www.pingluweb.com/rest/search/report/" + uniqueid
+    lp_result = s.get(url2,headers=headers).content
+    lp_result_object = json.loads(lp_result)
+    if not os.path.isdir("example2"):
+        os.makedirs("example2")
+    open("example2//"+ uniqueid +".yaml","w").write(yaml.safe_dump(lp_result_object,allow_unicode=True))
+    #sys.exit()

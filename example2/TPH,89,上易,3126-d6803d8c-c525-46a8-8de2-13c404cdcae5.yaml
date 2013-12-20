@@ -1,0 +1,92 @@
+lastError: ''
+response:
+  issue: 違反健康食品管理法
+  judgeDate: 2000/07/12
+  report:
+    appellant: [臺灣臺北地方法院檢察署檢察官]
+    appellantAgent: null
+    appellantLawyer: null
+    appellee: null
+    appelleeAgent: null
+    appelleeLawyer: null
+    assignCounsel: null
+    beJudgedPerson: null
+    caseNum: ['89,上易,3126']
+    caseType: M
+    chosenCounsel: [丁中原, 杜英達, 朱淑娟]
+    clerk: 郭淑卿
+    codeNum: 上易
+    courtCode: TPH
+    defendant: [友華股份有限公司]
+    defendantAgent: [乙○○]
+    defendantLawyer: null
+    identifier: TPH,89,上易,3126-d6803d8c-c525-46a8-8de2-13c404cdcae5
+    inmate: null
+    judge: 宋祺
+    judgeDate: 963331200000
+    lawyerCustomers:
+    - customers: [臺灣臺北地方法院檢察署檢察官]
+      lawyers: null
+    - customers: [友華股份有限公司]
+      lawyers: [丁中原, 杜英達, 朱淑娟]
+    lose: null
+    main: 上訴駁回。
+    money: 0
+    petitioner: null
+    plaintiff: null
+    plaintiffAgent: null
+    plaintiffLawyer: null
+    presideJudge: 劉靜嫻
+    previousCaseNum: 89,易,923
+    previousCourtCode: TPD
+    previousJudgeDate: 963331200000
+    proportion: 0.0
+    prosecutor: [賴俊雄]
+    publicDefender: null
+    publicJudge: null
+    puisne: [林勤綱]
+    result: 2
+    sentence: null
+    statute: [刑事訴訟法第三百六十八條, 刑事訴訟法第三百七十三條, 健康食品管理法第二十一條]
+    tags: null
+    type: 刑事判決
+    win: null
+  reportBase: {artificiallyBadTags: null, artificiallyTags: null, caseType: M, content: "臺灣高等法院刑事判決　　　　　　　　　　　　　八十九年度上易字第三一二六號\r\
+      \n　　上　訴　人　臺灣臺北地方法院檢察署檢察官\r\n　　被　　　告　友華股份有限公司\r\n　　兼右代表人　乙○○\r\n　　共　　　同\r\n　　選任辯護人　<a\
+      \ href=\"http://www.pingluweb.com/#!lawyerDetail?id=5072a62fa41c1a3f93ceea46\"\
+      \ target=\"_blank\">丁中原</a>\r\n　　　　　　　　<a href=\"http://www.pingluweb.com/#!lawyerDetail?id=5072a63ba41c1a3f93cef01a\"\
+      \ target=\"_blank\">杜英達</a>\r\n　　　　　　　　<a href=\"http://www.pingluweb.com/#!lawyerDetail?id=5072a632a41c1a3f93ceebcd\"\
+      \ target=\"_blank\">朱淑娟</a>\r\n右上訴人因被告等違反健康食品管理法案件，不服臺灣臺北地方法院八十九年度易字\r\n第九二三號，中華民國八十九年七月十二日第一審判決\
+      \ (聲請簡易判決處刑案號：臺\r\n灣臺北地方法院檢察署八十八年度偵字第二五三一八號、八十九年度偵字第一六七七\r\n號)，提起上訴，本院判決如左：\r\
+      \n    主  文\r\n上訴駁回。\r\n    理  由\r\n一、本案經本院審理結果，認第一審判決對被告友華股份有限公司、及乙○○為無罪\r\n\
+      \    之諭知，核無不當，應予維持，並引用第一審判決書記載之證據及理由（如附件\r\n    ）；又被告友華公司之代表人嗣後已由甲○○變更為乙○○，惟對該公司之同一\r\
+      \n    性並無影響，併予補充敘明。\r\n二、檢察官上訴意旨略以：健康食品管理法於八十八年二月三日公布，於同年八月三\r\n    日施行，該法已預留半年時間供業者調適，且在此期間行政院衛生署曾舉辦一百\r\
+      \n    多場說明會，被告早已知悉且有足夠時間準備；次查被告公司係於健康管理法施\r\n    行後之八十八年八月十六日才發文各銷售商，通知收回宣傳品待修改後重新印製\r\
+      \n    完成，再提供與銷售商，參諸媒體廣告自九月起才使用修改版等情，具見被告雖\r\n    有發文各銷售商暫停使用舊宣傳品，然因新宣傳品尚未印製完成而未認真執行，\r\
+      \n    是不能僅因被告公司有發文即表示被告已真正遵守法令依法宣傳銷售，否則高雄\r\n    縣衛生局怎會於八十八年九月六日查獲；又查被告宣傳品雖於健康食品管理法施\r\
+      \n    行前印製，然該法實施後被告自有遵守義務，要不能以刑法不溯既往原則作為免\r\n    除義務，否則所有不符合規定產品及宣傳是否可繼續銷售而出現一國兩制，是原\r\
+      \n    審認事用法容有違誤，自難認原判決妥適等語。\r\n三、惟查健康食品管理法固於八十八年二月三日公布，於公布後六個月即同年八月三\r\n   \
+      \ 日施行，然行政院衛生署係於該法施行之前一日即八十八年八月二日始以衛署食\r\n    字第八八０三七八０三號公告「健康食品安全及功效評估方法」等各項評估方法\r\
+      \n    ，被告等隨即於同年八月十六日發函通知各業務、行銷及庫房部門，將原使用之\r\n    宣傳品全部回收，並已印製新宣傳廣告，有友華公司八十八年八月十六日營養保\r\
+      \n    健部字第四號函影本及新、舊宣傳單在卷可稽，證人即協幼嬰兒用品專賣店之負\r\n    責人林建銘於原審中亦證稱友華公司曾發函及有業務人員通知收回舊廣告單，業\r\
+      \n    務人員並告知如還有舊廣告單要自行銷燬等語，足見被告等於食品衛生管理法施\r\n    行後確已勉力配合；至於該法施行後，高雄縣衛生局雖於八十八年九月六日在協\r\
+      \n    幼嬰兒用品專賣店查獲內容有「可有效抑制腸道有害菌繁殖，增強抵抗力」詞句\r\n    之卡洛塔妮幼兒成長奶粉廣告單，然而該廣告單係食品衛生管理法公佈施行前之\r\
+      \n    八十七年間即已印製使用，有該廣告單上之印刷註記可稽，且八十八年八月食品\r\n    衛生管理法施行後友華公司之廣告單內容在功能方面已不一樣，查獲之廣告單可\r\
+      \n    能是整理時所遺留之物等情，亦據證人林建銘供證明確；綜合上開各情，足見查\r\n    獲之廣告單係友華公司於健康食品管理法公佈施行前印製交與經銷商使用，迨該\r\
+      \n    法施行後因經銷商之作業疏失未予回收銷燬而留存者，並非被告等在健康食品管\r\n    理法施行後仍有違法標示或廣告為健康食品之行為，亦非被告等於該法施行後仍\r\
+      \n    有沿用舊有廣告宣傳單之行為，自難認被告等有何違反健康食品管理法第二十一\r\n    條之犯行可言，原審以不能證明被告等犯罪而為無罪之諭知，於法自無違誤，檢\r\
+      \n    察官之上訴為無理由，應予駁回。\r\n據上論結，應依刑事訴訟法第三百七十三條、第三百六十八條，判決如主文。\r\n本案經檢察官賴俊雄到庭執行職務。\r\
+      \n中     華     民     國    八十九   年       九       月      三十      日\r\n        \
+      \                     臺灣高等法院刑事第二十三庭\r\n                                 審判長法\
+      \  官  劉  靜  嫻\r\n                                       法  官  林  勤  綱\r\n  \
+      \                                     法  官  宋      祺\r\n右正本證明與原本無異。\r\n不得上訴。\r\
+      \n                                       書記官  郭  淑  卿\r\n中     華     民     國\
+      \    八十九   年       十       月       四       日\r\n", courtCode: TPH, identifier: 'TPH,89,上易,3126-d6803d8c-c525-46a8-8de2-13c404cdcae5',
+    issue: 違反健康食品管理法, judgeDate: 963331200000, reportStatus: 7, tags: null}
+  statute:
+  - items: [第二十一條]
+    statute: 健康食品管理法
+  - items: [第三百六十八條, 第三百七十三條]
+    statute: 刑事訴訟法
+  tags: null
+success: true
